@@ -2,6 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
+
 /* can define also custom */
 @layer utilities {
     .section-min-height {
