@@ -1,0 +1,1 @@
+Learn tailwind by following tutorial https://youtu.be/lCxcTsOHrjo?si=HfcHd3f4Jgin-7og 
